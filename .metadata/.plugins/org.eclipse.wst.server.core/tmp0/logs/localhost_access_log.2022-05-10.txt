@@ -1,0 +1,8 @@
+127.0.0.1 - - [10/May/2022:11:10:47 -0300] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [10/May/2022:11:10:55 -0300] "GET /gerenciador/entrada?acao=LoginForm HTTP/1.1" 200 396
+0:0:0:0:0:0:0:1 - - [10/May/2022:11:10:55 -0300] "GET /favicon.ico HTTP/1.1" 404 774
+0:0:0:0:0:0:0:1 - - [10/May/2022:11:11:12 -0300] "POST /gerenciador/entrada;jsessionid=9F35E83D43C557C3E525893BD4AFE906 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/May/2022:11:11:12 -0300] "GET /gerenciador/entrada?acao=ListaEmpresas HTTP/1.1" 200 685
+127.0.0.1 - - [10/May/2022:11:26:59 -0300] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [10/May/2022:11:27:08 -0300] "GET /gerenciador/entrada?acao=ListaEmpresas HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/May/2022:11:27:08 -0300] "GET /gerenciador/entrada?acao=LoginForm HTTP/1.1" 200 352

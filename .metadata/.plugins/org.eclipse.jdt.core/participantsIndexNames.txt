@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+/home/ricardolinux/Alura/spring/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1058648939.index
+/gerenciador/src/main/java
+/home/ricardolinux/Alura/spring/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3659934725.index
+/gerenciador/src/main/java
+/home/ricardolinux/Alura/spring/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/852037321.index
+/gerenciador/src/main/java

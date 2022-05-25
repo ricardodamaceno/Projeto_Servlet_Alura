@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="br.com.alura.gerenciador.servlet.ListaEmpresasServlet"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="br.com.alura.gerenciador.servlet.Banco"/>
+    <fullyQualifiedTypeName name="br.com.alura.gerenciador.servlet.Empresa"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="br.com.alura.gerenciador.acao.MostraEmpresas"/>
+    <fullyQualifiedTypeName name="br.com.alura.gerenciador.acao.RemoveEmpresa"/>
+    <fullyQualifiedTypeName name="java.lang.Class"/>
+    <fullyQualifiedTypeName name="br.com.alura.gerenciador.modelo.Usuario"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="br.com.alura.gerenciador.modelo.Empresa"/>
+    <fullyQualifiedTypeName name="br.com.alura.gerenciador.modelo.Banco"/>
+    <fullyQualifiedTypeName name="com.google.gson.Gson"/>
+    <fullyQualifiedTypeName name="org.apache.http.client.fluent.Form"/>
+    <fullyQualifiedTypeName name="org.apache.http.client.fluent.Request"/>
+</qualifiedTypeNameHistroy>
